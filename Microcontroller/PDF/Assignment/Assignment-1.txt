@@ -1,0 +1,4 @@
+(a) Load the Register R0 to R4 with roll numbers of team leader of five teams.
+
+
+ (b) Move the roll numbers stored in R0~R4 to some SRAM area, then move all rool numbers from these are to another area in SRAM
