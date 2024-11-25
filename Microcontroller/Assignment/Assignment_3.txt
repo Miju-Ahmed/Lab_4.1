@@ -1,0 +1,1 @@
+Store the ASCII codes of Uppercase letters in SRAM area staring from 0x2FF10000. Now convert Uppercase letters into corresponding Lowercase letters and store their ASCII codes in SRAM area starting from 0x2FF20000.
