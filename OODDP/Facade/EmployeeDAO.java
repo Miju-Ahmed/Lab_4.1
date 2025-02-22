@@ -1,0 +1,18 @@
+public class EmployeeDAO {
+
+    public void insert(){
+
+    }
+
+    public void updateEmployeeName(){
+
+    }
+
+    public Employee getEmployeeDetails(String emailID){
+        return new Employee();
+    }
+
+    public Employee getEmployeeDetails(int empID){
+        return new Employee();
+    }
+}
