@@ -1,0 +1,5 @@
+Application->
+1. ATM
+2. Vending Machine
+3. Design Loggers(Amazon)
+4. https://www.youtube.com/watch?v=gvIn5QBdGDk
